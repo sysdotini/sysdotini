@@ -1,11 +1,4 @@
-### Hi there 👋
-I make things and exist!
-
-[Website][1]
-
-Look at this cute Hibiki!
+### Hi, i'm Espi. 👋
+I ~~break~~ make things. But don't worry about that, look at this cute Hibiki!
 
 <img src="https://i.imgur.com/4pUsEbX.jpg" width="50%" height="50%">
-
-
-[1]: https://lesbian.codes "Website"
