@@ -6,6 +6,6 @@ I develop projects and libraries that I find interesting or I'll use. I also con
 
 ## Current Projects
 Hibiki - My general-purpose Discord bot. Written for Node.js and is currently my most succesful project.
-
+<br>
 Bulmaselect - A multiselect library for the web written in vanilla JavaScript.
 
