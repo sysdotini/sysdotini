@@ -10,12 +10,14 @@ I develop projects and libraries that I find interesting or I'll use. I also con
 [Bulmaselect][Bulmaselect]: A multiselect library for the web written in vanilla JavaScript.
 
 ## Contact
-The quickest way to contact me is usually my Telegram, but I'll get back on all of these.
-- Discord: espi#0001
-- Telegram: https://t.me/smolespi
-- Twitter: https://twitter.com/smolespi
-- Website: https://lesbian.codes
-- Email: espi@lesbian.codes
+The quickest way to contact me is usually my Telegram. I'm also on Discord @ espi#0001.
+- [Telegram][Telegram]
+- [Twitter][Twitter]
+- [Email][Email]
 
 [Hibiki]: https://github.com/smolespi/Hibiki "Hibiki"
 [Bulmaselect]: https://github.com/resolvedxd/bulmaselect "Bulmaselect"
+[Telegram]: https://t.me/smolespi "Telegram: @smolespi"
+[Twitter]: https://twitter.com/smolespi "Twitter: @smolespi"
+[Website]: https://lesbian.codes "Website: lesbian.codes"
+[Email]: mailto:espi@lesbian.codes "Email: espi@lesbian.codes"
