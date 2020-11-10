@@ -19,5 +19,5 @@ The quickest way to contact me is usually my Telegram. I'm also on Discord @ esp
 [Bulmaselect]: https://github.com/resolvedxd/bulmaselect "Bulmaselect"
 [Telegram]: https://t.me/smolespi "Telegram: @smolespi"
 [Twitter]: https://twitter.com/smolespi "Twitter: @smolespi"
-[Website]: https://lesbian.codes "Website: lesbian.codes"
-[Email]: mailto:espi@lesbian.codes "Email: espi@lesbian.codes"
+[Website]: https://espi.me "Website: espi.me"
+[Email]: mailto:contact@espi.me "Email: contact@espi.me"
