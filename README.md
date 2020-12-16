@@ -6,8 +6,8 @@ I develop projects and libraries that I find interesting or I'll use. I also con
 
 ## Current Projects
 I don't have all of my projects listed, but here's a brief overview of some stuff I do.
-- [Hibiki][Hibiki] - My general-purpose Discord bot. Currently my most succesful project.
-- [Bulmaselect][Bulmaselect] - A multiselect library for the web written in vanilla JavaScript.
+- [Hibiki][Hibiki]: My Discord bot, proudly used in over 1000 guilds.
+- [Bulmaselect][Bulmaselect]: A multiselect library for the web written in vanilla JavaScript.
 
 ## Contact
 The quickest way to contact me is usually my Telegram. I'm also `espi#0001` on Discord.
