@@ -1,5 +1,5 @@
 ## Hi, I'm Espi. 👋
-I'm a web and software developer that mostly makes stuff in JavaScript and TypeScript.
+I'm a web and software developer that mostly works with JavaScript and TypeScript.
 
 ## About Me
 I develop projects and libraries that I find interesting or I'll use. I also contribute to various projects, but not all of them are located here.
