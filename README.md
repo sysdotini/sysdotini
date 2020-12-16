@@ -2,15 +2,15 @@
 I'm a web and software developer that mostly makes JavaScript/TypeScript apps.
 
 ## About Me
-I develop projects and libraries that I find interesting or I'll use. I also contribute to various projects, but not all of them are located here. Outside of code, I like to chill in various communities, play games, and listen to music.
+I develop projects and libraries that I find interesting or I'll use. I also contribute to various projects, but not all of them are located here.
 
 ## Current Projects
-I don't have all of my projects listed, and this is going to get larger over time.
+I don't have all of my projects listed, but here's a brief overview of some stuff I do.
 - [Hibiki][Hibiki] - My general-purpose Discord bot. Currently my most succesful project.
 - [Bulmaselect][Bulmaselect] - A multiselect library for the web written in vanilla JavaScript.
 
 ## Contact
-The quickest way to contact me is usually my Telegram. I'm also on Discord @ espi#0001.
+The quickest way to contact me is usually my Telegram. I'm also `espi#0001` on Discord.
 - [Telegram][Telegram]
 - [Twitter][Twitter]
 - [Email][Email]
