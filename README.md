@@ -5,7 +5,7 @@ I'm a web and software developer that mostly makes stuff in JavaScript and TypeS
 I develop projects and libraries that I find interesting or I'll use. I also contribute to various projects, but not all of them are located here.
 
 ## Current Projects
-I don't have all of my projects listed, but here's a brief overview of some stuff I do.
+I don't have all of my projects listed, but here's a brief overview of some stuff I've done.
 - [Hibiki][Hibiki]: My Discord bot, proudly used in over 1000 guilds.
 - [Bulmaselect][Bulmaselect]: A multiselect library for the web written in vanilla JavaScript.
 
